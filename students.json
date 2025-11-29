@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "totalStudents": 5,
+        "version": "1.0"
+    },
+    "students": [
+        {
+            "email": "ssharma33@student.ysu.edu",
+            "enrollmentDate": "2025-11-29",
+            "groupId": "GROUP_1",
+            "isActive": true,
+            "learningProfile": {
+                "availability": [
+                    "weekends"
+                ],
+                "goals": "problem solving, dsa, ai, ml basics, and more",
+                "interests": [
+                    "coding",
+                    "ai",
+                    "startups"
+                ],
+                "learningStyle": "Visual and practical learning, discussions",
+                "strengths": [
+                    "coding",
+                    "problem solving",
+                    "math",
+                    "communication",
+                    "building products"
+                ],
+                "weaknesses": [
+                    "thinking too much",
+                    "cold sometimes"
+                ]
+            },
+            "major": "CIS",
+            "name": "Sundar Raj Sharma",
+            "studentId": "Y00889901",
+            "year": 1
+        },
+        {
+            "email": "afernandez@student.ysu.edu",
+            "enrollmentDate": "2024-08-15",
+            "groupId": "GROUP_1",
+            "isActive": true,
+            "learningProfile": {
+                "availability": [
+                    "weekdays evenings"
+                ],
+                "goals": "master web development, contribute to open source",
+                "interests": [
+                    "javascript",
+                    "react",
+                    "open source"
+                ],
+                "learningStyle": "Hands-on projects and pair programming",
+                "strengths": [
+                    "frontend development",
+                    "teamwork",
+                    "design thinking"
+                ],
+                "weaknesses": [
+                    "time management under stress",
+                    "overthinking design"
+                ]
+            },
+            "major": "CS",
+            "name": "Ana Fernandez",
+            "studentId": "Y00911203",
+            "year": 2
+        },
+        {
+            "email": "kmurphy@student.ysu.edu",
+            "enrollmentDate": "2023-01-10",
+            "groupId": "GROUP_1",
+            "isActive": true,
+            "learningProfile": {
+                "availability": [
+                    "mornings",
+                    "weekends"
+                ],
+                "goals": "understand AI, ML, and cloud computing",
+                "interests": [
+                    "ai",
+                    "ml",
+                    "cloud services"
+                ],
+                "learningStyle": "Reading + structured tutorials",
+                "strengths": [
+                    "math",
+                    "algorithms",
+                    "quick learning"
+                ],
+                "weaknesses": [
+                    "practical coding experience",
+                    "communication in groups"
+                ]
+            },
+            "major": "CS",
+            "name": "Kevin Murphy",
+            "studentId": "Y00744567",
+            "year": 3
+        },
+        {
+            "email": "rpatel@student.ysu.edu",
+            "enrollmentDate": "2025-05-05",
+            "groupId": "GROUP_2",
+            "isActive": true,
+            "learningProfile": {
+                "availability": [
+                    "afternoons",
+                    "evenings"
+                ],
+                "goals": "excel in software engineering, backend systems, and databases",
+                "interests": [
+                    "databases",
+                    "backend",
+                    "system design"
+                ],
+                "learningStyle": "Problem-solving exercises and coding challenges",
+                "strengths": [
+                    "backend development",
+                    "debugging",
+                    "logical thinking"
+                ],
+                "weaknesses": [
+                    "frontend skills",
+                    "public speaking"
+                ]
+            },
+            "major": "CIS",
+            "name": "Riya Patel",
+            "studentId": "Y00899823",
+            "year": 1
+        },
+        {
+            "email": "jlee@student.ysu.edu",
+            "enrollmentDate": "2022-09-12",
+            "groupId": "GROUP_2",
+            "isActive": true,
+            "learningProfile": {
+                "availability": [
+                    "weekdays mornings"
+                ],
+                "goals": "advance in cybersecurity and ethical hacking",
+                "interests": [
+                    "cybersecurity",
+                    "ethical hacking",
+                    "networking"
+                ],
+                "learningStyle": "Case studies and hands-on labs",
+                "strengths": [
+                    "networking",
+                    "security analysis",
+                    "attention to detail"
+                ],
+                "weaknesses": [
+                    "patience with theory",
+                    "group coordination"
+                ]
+            },
+            "major": "Cybersecurity",
+            "name": "James Lee",
+            "studentId": "Y00677845",
+            "year": 4
+        }
+    ]
+}
