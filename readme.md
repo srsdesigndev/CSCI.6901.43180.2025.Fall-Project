@@ -19,8 +19,8 @@ https://github.com/nlohmann/json/releases/download/v3.11.2/json.hpp
 
 **Step 3:** Run
 ```bash
-chmod +x run.sh
-./run.sh
+chmod +x start.sh
+./start.sh
 ```
 
 ## Features
@@ -45,7 +45,7 @@ All data saves automatically in `students.json` and `groups.json`
 → Download it and put in same folder
 
 **"permission denied"**
-→ Run `chmod +x run.sh`
+→ Run `chmod +x start.sh`
 
 **"g++ not found"**
 → Install: `brew install gcc` (Mac) or install Xcode tools
