@@ -1,0 +1,91 @@
+# ----------------------------------------
+# Build artifacts
+# ----------------------------------------
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# CMake build folders
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Autotools
+*.lo
+*.la
+*.lai
+*.dep
+*.dirstamp
+
+# Compiled debug files
+*.dSYM/
+*.stackdump
+
+# ----------------------------------------
+# IDE / Editor specific
+# ----------------------------------------
+
+# VSCode
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# CLion / JetBrains
+.idea/
+*.iml
+
+# Visual Studio
+*.sdf
+*.suo
+*.user
+*.vcxproj.*
+*.ncb
+*.opendb
+*.VC.db
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# ----------------------------------------
+# OS specific
+# ----------------------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ----------------------------------------
+# Logs / temp stuff
+# ----------------------------------------
+*.log
+*.tmp
+*.swp
+*.bak
+*.cache
