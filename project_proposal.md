@@ -20,7 +20,6 @@ Forming effective study groups can greatly improve student learning, engagement,
 The Study Group Matching System allows students to input their learning preferences, academic strengths and weaknesses, goals, and availability. The program then suggests compatible peers to form study groups, enhancing collaboration and making learning more efficient and enjoyable. This solution helps build stronger academic communities within schools and universities.
 
 ---
-
 ## Implementation Plan Using C++ Concepts
 
 The program will be built using object-oriented programming (OOP) principles to model the various components of the study group system. Core classes will include:
